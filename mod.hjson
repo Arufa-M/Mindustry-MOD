@@ -3,4 +3,4 @@ displayName: "[red]B[yellow]l[pink]o[red]k[yellow]s[white] Mod" //what displays 
 author: "Guru"
 description: "My first mod.This mod will add some blocks.[800000]最終更新"
 version: "26"
-minGameVersion: "100"
+minGameVersion: "146"
