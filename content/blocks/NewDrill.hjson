@@ -1,0 +1,23 @@
+name: NewDrill
+description: Description of thing.
+
+
+type: Drill
+size: 2
+tier: 3
+drillTime: 200
+consumes: {
+  power: 3
+  liquid: {
+    liquid: water
+    amount: 0.1
+    booster: true
+  }
+}
+requirements: [
+    copper/300
+    graphite/100
+  ]
+
+category: production
+research: pneumatic-drill
